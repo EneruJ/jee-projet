@@ -22,6 +22,7 @@
     <h2>
         <a href="countries"><spring:message code="application.countries"/></a>
         <a href="cities"><spring:message code="application.cities"/></a>
+        <a href="details">Map test</a>
     </h2>
 </div>
 </body>
