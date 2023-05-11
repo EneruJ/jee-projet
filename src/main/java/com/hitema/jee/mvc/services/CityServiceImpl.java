@@ -1,7 +1,6 @@
 package com.hitema.jee.mvc.services;
 
 import com.hitema.jee.mvc.entities.City;
-import com.hitema.jee.mvc.entities.Country;
 import com.hitema.jee.mvc.repositories.CityRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
